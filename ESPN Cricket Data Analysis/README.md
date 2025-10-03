@@ -6,10 +6,10 @@
 This dashboard helps cricket fans, analysts, and coaches understand a player’s batting, bowling & fielding performance in detail. By selecting a player through a slicer, all visuals dynamically update to show runs trend, highest scores, strike rate patterns, 4s/6s breakdown, and not-out counts.  
 
 The purpose of this report is to:  
-- 🎯 Track a player’s consistency.  
-- 💯 Compare scoring patterns (boundaries, strike rate).  
-- 🏆 Highlight milestones (50s, 100s, not-outs).  
-- 📊 Provide quick insights using KPI cards (highest score, total not outs, matches played).  
+🎯 Track a player’s consistency.  
+💯 Compare scoring patterns (boundaries, strike rate).  
+🏆 Highlight milestones (50s, 100s, not-outs).  
+📊 Provide quick insights using KPI cards (highest score, total not outs, matches played).  
 
 This dashboard makes player performance analysis simple and interactive.  
 
@@ -56,15 +56,15 @@ This dashboard makes player performance analysis simple and interactive.
 
 From the dashboard, the following inferences can be made:  
 
-### [1] 🔥 Highest Score & Not Outs  
+###🔥 Highest Score & Not Outs  
 - Highest score (numeric) visible in KPI card.  
 - Not Outs shown in Multi-row Card / Table.  
 
-### [2] 🎯 Milestones  
+###🎯 Milestones  
 - Bar charts show frequency of 50s & 100s.  
 - Distribution of 4s and 6s highlights batting style.  
 
-### [3] 🏏 Quick KPIs  
+###🏏 Quick KPIs  
 - Total Matches Played  
 - Total Not Outs  
 - Highest Score  
