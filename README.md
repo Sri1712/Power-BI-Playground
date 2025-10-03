@@ -11,7 +11,7 @@ Here’s a sneak peek at the Power BI projects in this playground. Each project 
 
 | Project Name                      | Data Source          | Description                                                     |
 | --------------------------------- | -------------------- | --------------------------------------------------------------- |
-| **🏏 ESPN Cricket Data Analysis **| Web                  | Track players performance, highlight milestones, quick insights using KPI cards and compare scoring patterns. |
+| **🏏 ESPN Cricket Data Analysis**| Web                  | Track players performance, highlight milestones, quick insights using KPI cards and compare scoring patterns. |
 
 
 Each .pbix file is self-contained, demonstrating the end-to-end journey from raw data to interactive insights. ✨
